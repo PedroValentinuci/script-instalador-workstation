@@ -35,4 +35,9 @@ sudo apt install libreoffice -y
 sudo apt install arduino -y
 sudo apt update
 
+## Dowloads dos pacotes snaps ##
+
+sudo snap install pycharm-community --classic
+sudo apt update
+
 echo "Prontinho meu conssagra"
