@@ -17,7 +17,7 @@ cd /home/SUSER/Downloads/programas
 wget -c https://github.com/shiftkey/desktop/releases/download/release-2.4.1-linux2/GitHubDesktop-linux-2.4.1-linux2.deb
 wget -c https://discordapp.com/api/download?platform=linux&format=deb
 
-sudo dpkg -i *.deb -y
+sudo dpkg -i *.deb 
 
 ## Downloads das linguagens ##
 
