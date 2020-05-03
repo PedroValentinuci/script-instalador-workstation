@@ -28,7 +28,7 @@ sudo apt install ruby -y
 sudo apt install rbenv -y
 sudo apt install python -y
 
-## Download des programas ##
+## Downloads dos programas ##
 
 sudo apt install gimp -y
 sudo apt install libreoffice -y
