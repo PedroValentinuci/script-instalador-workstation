@@ -28,16 +28,18 @@ sudo apt install ruby -y
 sudo apt install rbenv -y
 sudo apt install python -y
 
-## Downloads dos programas ##
+## Downloads dos programas apt ##
 
 sudo apt install gimp -y
 sudo apt install libreoffice -y
 sudo apt install arduino -y
+sudo apt install librecad -y
 sudo apt update
 
-## Dowloads dos pacotes snaps ##
+## Dowloads dos programas snaps ##
 
 sudo snap install pycharm-community --classic
+sudo snap install librepcb
 sudo apt update
 
 echo "Prontinho meu conssagra"
