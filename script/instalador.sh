@@ -17,6 +17,8 @@ cd /home/SUSER/Downloads/programas
 wget -c https://github.com/shiftkey/desktop/releases/download/release-2.4.1-linux2/GitHubDesktop-linux-2.4.1-linux2.deb
 wget -c https://discordapp.com/api/download?platform=linux&format=deb
 wget -c google-chrome-stable_current_amd64.debgoogle-chrome-stable_current_amd64.deb
+wget -c https://github.com/KryDos/todoist-linux/releases/download/1.21/Todoist_1.21.0_amd64.deb
+wget -c https://github.com/klaussinani/tusk/releases/download/v0.23.0/tusk_0.23.0_amd64.deb
 
 sudo dpkg -i *.deb 
 
