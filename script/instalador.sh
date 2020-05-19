@@ -18,6 +18,7 @@ wget -c https://github.com/shiftkey/desktop/releases/download/release-2.4.1-linu
 wget -c https://discordapp.com/api/download?platform=linux&format=deb
 wget -c google-chrome-stable_current_amd64.debgoogle-chrome-stable_current_amd64.deb
 wget -c https://github.com/KryDos/todoist-linux/releases/download/1.21/Todoist_1.21.0_amd64.deb
+wget -O - https://raw.githubusercontent.com/laurent22/joplin/master/Joplin_install_and_update.sh | bash
 
 sudo dpkg -i *.deb 
 
