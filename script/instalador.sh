@@ -20,6 +20,7 @@ wget -c google-chrome-stable_current_amd64.debgoogle-chrome-stable_current_amd64
 wget -c https://github.com/KryDos/todoist-linux/releases/download/1.21/Todoist_1.21.0_amd64.deb
 wget -c https://storage.googleapis.com/flutter_infra/releases/stable/linux/flutter_linux_1.17.1-stable.tar.xz
 wget -O - https://raw.githubusercontent.com/laurent22/joplin/master/Joplin_install_and_update.sh | bash
+wget -c https://github.com/balena-io/etcher/releases/download/v1.5.95/balena-etcher-electron-1.5.95-linux-ia32.zip
 
 sudo dpkg -i *.deb 
 
